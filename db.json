@@ -1,0 +1,262 @@
+{
+    "products":[ 
+        {
+            "name": "Arroz",
+            "quantity": "20lb",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Pechuga",
+            "quantity": "Charola",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Carne",
+            "quantity": "Paquete",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Jitomate",
+            "quantity": "3 kg",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Cebolla",
+            "quantity": "4 piezas",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Chile",
+            "quantity": "3 bolsas",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Tortillas",
+            "quantity": "3 bolsas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Leche",
+            "quantity": "3 galones",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Cereal",
+            "quantity": "1 bolsa",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Espagueti",
+            "quantity": "2 Cajas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Mantequilla",
+            "quantity": "1.7kg",
+            "brand": "Blue Bonnet",
+            "priority": 1
+        },
+        {
+            "name": "Mayonesa",
+            "quantity": "Frasco",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Knor",
+            "quantity": "Caja",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Huevo",
+            "quantity": "Caja de 60 huevos",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Jamón",
+            "quantity": "2 paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Pan de sandwich",
+            "quantity": "3 bolsas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Salchicha",
+            "quantity": "2 paquetes de 25",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Ajos",
+            "quantity": "3 cabezas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Sal de ajo",
+            "quantity": "1 tubo",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Canela",
+            "quantity": "1 tubo",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Agua",
+            "quantity": "Paquete de 35",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Café",
+            "quantity": "Paquete",
+            "brand": "Folgers",
+            "priority": 2
+        },
+        {
+            "name": "Puré de tomate",
+            "quantity": "2 latas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Valentina",
+            "quantity": "Botella",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Azúcar",
+            "quantity": "8lb",
+            "brand": "Paquete verde",
+            "priority": 2
+        },
+        {
+            "name": "Servilletas",
+            "quantity": "Paquete de 500",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Rollo",
+            "quantity": "Paquete de 24 mega",
+            "brand": "Angel soft",
+            "priority": 1
+        },
+        {
+            "name": "Jabón para trastes",
+            "quantity": "Botella",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Esponja",
+            "quantity": "Paquete de 2",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Magitel",
+            "quantity": "Paquete",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Cepillos de dientes",
+            "quantity": "Paquete",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Hot cakes",
+            "quantity": "40oz",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Manzana",
+            "quantity": "1 bolsa",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Plátanos",
+            "quantity": "2 pencas",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Plumones",
+            "quantity": "Paquete",
+            "brand": "NA",
+            "priority": 3
+        },
+        {
+            "name": "Crema",
+            "quantity": "Grande",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Bolsas de basura",
+            "quantity": "Caja",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Aceite",
+            "quantity": "Galón",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Pan molido",
+            "quantity": "Paquete",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Desinfectante",
+            "quantity": "Botella",
+            "brand": "Cloro",
+            "priority": 1
+        },
+        {
+            "name": "Avena",
+            "quantity": "Tubo",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Sopa",
+            "quantity": "",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Lentejas",
+            "quantity": "",
+            "brand": "NA",
+            "priority": 1
+        }
+    ]
+}

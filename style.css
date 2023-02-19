@@ -1,0 +1,41 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    margin: 1;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/OS_old_series_1_63360_107ne.jpg/640px-OS_old_series_1_63360_107ne.jpg');
+    background-position: center;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+section{
+    width: 100%;
+    display: grid;
+    align-items: center;
+    padding: 0;
+}
+
+.fila{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: smaller;
+}
+
+.columna{
+    width: 75px;
+}
+
+.columna-p{
+    width: 125px;
+}
+
+.f-list{
+    display: flex;
+    flex-wrap: wrap;
+}
