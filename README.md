@@ -1,4 +1,4 @@
-#Shopping list
+# Shopping list
 
 Simple web app to filter products in a shopping list.
 

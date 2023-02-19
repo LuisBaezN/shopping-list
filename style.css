@@ -4,8 +4,9 @@
 
 body{
     margin: 1;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/OS_old_series_1_63360_107ne.jpg/640px-OS_old_series_1_63360_107ne.jpg');
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee635e0a-8ad2-4b97-b015-081828bf48db/ddo9g6-9e221d5e-819a-44f4-a602-fa716e9c58a9.jpg/v1/fill/w_753,h_1061,q_70,strp/grungy_paper_texture_v_5_by_bashcorpo_ddo9g6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjgxOCIsInBhdGgiOiJcL2ZcL2VlNjM1ZTBhLThhZDItNGI5Ny1iMDE1LTA4MTgyOGJmNDhkYlwvZGRvOWc2LTllMjIxZDVlLTgxOWEtNDRmNC1hNjAyLWZhNzE2ZTljNThhOS5qcGciLCJ3aWR0aCI6Ijw9MjAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eAbeWVGMMyUAGlpA5yKjcDnSj1NfRyZqgFhdTdW_5kg');
     background-position: center;
+    background-size: cover;
 }
 
 ul{
