@@ -13,7 +13,13 @@
             "priority": 1
         },
         {
-            "name": "Carne",
+            "name": "Piernas",
+            "quantity": "Charola",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Carne molida",
             "quantity": "Paquete",
             "brand": "NA",
             "priority": 1
@@ -38,19 +44,7 @@
         },
         {
             "name": "Tortillas",
-            "quantity": "3 bolsas",
-            "brand": "NA",
-            "priority": 1
-        },
-        {
-            "name": "Leche",
-            "quantity": "3 galones",
-            "brand": "NA",
-            "priority": 1
-        },
-        {
-            "name": "Cereal",
-            "quantity": "1 bolsa",
+            "quantity": "4 bolsas",
             "brand": "NA",
             "priority": 1
         },
@@ -80,25 +74,19 @@
         },
         {
             "name": "Huevo",
-            "quantity": "Caja de 60 huevos",
+            "quantity": "2 cajas",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Jamón",
+            "quantity": "3 paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Salchichas",
             "quantity": "2 paquetes",
-            "brand": "NA",
-            "priority": 1
-        },
-        {
-            "name": "Pan de sandwich",
-            "quantity": "3 bolsas",
-            "brand": "NA",
-            "priority": 1
-        },
-        {
-            "name": "Salchicha",
-            "quantity": "2 paquetes de 25",
             "brand": "NA",
             "priority": 1
         },
@@ -106,7 +94,7 @@
             "name": "Ajos",
             "quantity": "3 cabezas",
             "brand": "NA",
-            "priority": 1
+            "priority": 2
         },
         {
             "name": "Sal de ajo",
@@ -122,19 +110,13 @@
         },
         {
             "name": "Agua",
-            "quantity": "Paquete de 35",
+            "quantity": "Paquete 35",
             "brand": "NA",
             "priority": 1
         },
         {
-            "name": "Café",
-            "quantity": "Paquete",
-            "brand": "Folgers",
-            "priority": 2
-        },
-        {
             "name": "Puré de tomate",
-            "quantity": "2 latas",
+            "quantity": "3 latas",
             "brand": "NA",
             "priority": 1
         },
@@ -142,7 +124,7 @@
             "name": "Valentina",
             "quantity": "Botella",
             "brand": "NA",
-            "priority": 2
+            "priority": 3
         },
         {
             "name": "Azúcar",
@@ -152,18 +134,18 @@
         },
         {
             "name": "Servilletas",
-            "quantity": "Paquete de 500",
+            "quantity": "Paquete 500",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Rollo",
-            "quantity": "Paquete de 24 mega",
+            "quantity": "Paquete 24",
             "brand": "Angel soft",
             "priority": 1
         },
         {
-            "name": "Jabón para trastes",
+            "name": "Jabón trastes",
             "quantity": "Botella",
             "brand": "NA",
             "priority": 1
@@ -172,40 +154,10 @@
             "name": "Esponja",
             "quantity": "Paquete de 2",
             "brand": "NA",
-            "priority": 1
+            "priority": 2
         },
         {
             "name": "Magitel",
-            "quantity": "Paquete",
-            "brand": "NA",
-            "priority": 2
-        },
-        {
-            "name": "Cepillos de dientes",
-            "quantity": "Paquete",
-            "brand": "NA",
-            "priority": 2
-        },
-        {
-            "name": "Hot cakes",
-            "quantity": "40oz",
-            "brand": "NA",
-            "priority": 2
-        },
-        {
-            "name": "Manzana",
-            "quantity": "1 bolsa",
-            "brand": "NA",
-            "priority": 2
-        },
-        {
-            "name": "Plátanos",
-            "quantity": "2 pencas",
-            "brand": "NA",
-            "priority": 2
-        },
-        {
-            "name": "Plumones",
             "quantity": "Paquete",
             "brand": "NA",
             "priority": 3
@@ -217,10 +169,10 @@
             "priority": 2
         },
         {
-            "name": "Bolsas de basura",
+            "name": "Bolsas basura",
             "quantity": "Caja",
             "brand": "NA",
-            "priority": 1
+            "priority": 2
         },
         {
             "name": "Aceite",
@@ -232,18 +184,12 @@
             "name": "Pan molido",
             "quantity": "Paquete",
             "brand": "NA",
-            "priority": 2
+            "priority": 3
         },
         {
-            "name": "Desinfectante",
+            "name": "Cloro",
             "quantity": "Botella",
-            "brand": "Cloro",
-            "priority": 1
-        },
-        {
-            "name": "Avena",
-            "quantity": "Tubo",
-            "brand": "NA",
+            "brand": "Bleach",
             "priority": 2
         },
         {
