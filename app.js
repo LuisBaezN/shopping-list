@@ -29,13 +29,21 @@ function start(){
                     break;
                 case 1:
                     cuad.classList.add('columna');
-                    cuad.innerText = `${data[`${i}`].quantity}`;
+                    if (data[`${i}`].quantity > 1) {
+                        cuad.innerText = `${data[`${i}`].quantity} ${data[`${i}`].metricM}`;
+                    } else {
+                        cuad.innerText = `${data[`${i}`].quantity} ${data[`${i}`].metricS}`;
+                    }
                     sect.appendChild(cuad);
                     break;
                 case 2:
                     cuad.classList.add('columna');
                     cant = document.createElement('input');
-                    cant.type = 'number';
+                    if (data[i].name === 'Especias') {
+                        cant.type = 'text';
+                    } else {
+                        cant.type = 'number';
+                    }
                     cant.name = `${data[i]['name']}`;
                     cant.id = `${i}`;
                     cuad.appendChild(cant);
@@ -57,6 +65,5 @@ let data = fetch('db.json')
     .then((res, req) => res.json())
     .then(d => {
         data = d['products'];
-        //console.log(typeof data, data['1'].name);
         start();
     });

@@ -2,207 +2,267 @@
     "products":[ 
         {
             "name": "Arroz",
-            "quantity": "20lb",
+            "quantity": "1",
+            "metricS":"bolsa",
+            "metricM":"bolsas",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Pechuga",
-            "quantity": "Charola",
-            "brand": "NA",
-            "priority": 1
-        },
-        {
-            "name": "Piernas",
-            "quantity": "Charola",
+            "quantity": "1",
+            "metricS":"charola",
+            "metricM":"charolas",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Carne molida",
-            "quantity": "Paquete",
+            "quantity": "1",
+            "metricS":"paquete",
+            "metricM":"paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Papa",
+            "quantity": "1",
+            "metricS":"bolsa",
+            "metricM":"bolsas",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Jitomate",
-            "quantity": "3 kg",
+            "quantity": "3",
+            "metricS":"kg",
+            "metricM":"kg",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Cebolla",
-            "quantity": "4 piezas",
+            "quantity": "4",
+            "metricS": "pieza",
+            "metricM": "piezas",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Chile",
-            "quantity": "3 bolsas",
+            "quantity": "3",
+            "metricS": "bolsa",
+            "metricM": "bolsa",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Tortillas",
-            "quantity": "4 bolsas",
+            "quantity": "4",
+            "metricS":"kg",
+            "metricM":"kg",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Espagueti",
-            "quantity": "2 Cajas",
+            "quantity": "2",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Mantequilla",
-            "quantity": "1.7kg",
+            "quantity": "1.7",
+            "metricS":"kg",
+            "metricM":"kg",
             "brand": "Blue Bonnet",
             "priority": 1
         },
         {
             "name": "Mayonesa",
-            "quantity": "Frasco",
+            "quantity": "1",
+            "metricS":"Frasco",
+            "metricM":"Frascos",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Knor",
-            "quantity": "Caja",
+            "quantity": "1",
+            "metricS":"frasco",
+            "metricM":"frascos",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Huevo",
-            "quantity": "2 cajas",
+            "quantity": "2",
+            "metricS":"caja",
+            "metricM":"cajas",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Jamón",
-            "quantity": "3 paquetes",
+            "quantity": "3",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Salchichas",
-            "quantity": "2 paquetes",
+            "quantity": "2",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Ajos",
-            "quantity": "3 cabezas",
+            "quantity": "3",
+            "metricS":"cabeza",
+            "metricM":"cabezas",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Sal de ajo",
-            "quantity": "1 tubo",
+            "quantity": "1",
+            "metricS":"pieza",
+            "metricM":"piezas",
             "brand": "NA",
             "priority": 1
         },
         {
-            "name": "Canela",
-            "quantity": "1 tubo",
-            "brand": "NA",
-            "priority": 2
-        },
-        {
             "name": "Agua",
-            "quantity": "Paquete 35",
+            "quantity": "1",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Puré de tomate",
-            "quantity": "3 latas",
+            "quantity": "3",
+            "metricS":"lata",
+            "metricM":"latas",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Valentina",
-            "quantity": "Botella",
+            "quantity": "1",
+            "metricS":"botella",
+            "metricM":"botellas",
             "brand": "NA",
             "priority": 3
         },
         {
             "name": "Azúcar",
-            "quantity": "8lb",
-            "brand": "Paquete verde",
+            "quantity": "1",
+            "metricS":"bolsa",
+            "metricM":"bolsas",
+            "brand": "NA",
             "priority": 2
         },
         {
             "name": "Servilletas",
-            "quantity": "Paquete 500",
+            "quantity": "1",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Rollo",
-            "quantity": "Paquete 24",
+            "quantity": "1",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "Angel soft",
             "priority": 1
         },
         {
             "name": "Jabón trastes",
-            "quantity": "Botella",
+            "quantity": "1",
+            "metricS":"botella",
+            "metricM":"botellas",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Esponja",
-            "quantity": "Paquete de 2",
+            "quantity": "1",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 2
         },
         {
-            "name": "Magitel",
-            "quantity": "Paquete",
-            "brand": "NA",
-            "priority": 3
-        },
-        {
             "name": "Crema",
-            "quantity": "Grande",
+            "quantity": "1",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Bolsas basura",
-            "quantity": "Caja",
+            "quantity": "1",
+            "metricS":"caja",
+            "metricM":"cajas",
             "brand": "NA",
             "priority": 2
         },
         {
             "name": "Aceite",
-            "quantity": "Galón",
+            "quantity": "1",
+            "metricS":"galón",
+            "metricM":"galones",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Pan molido",
-            "quantity": "Paquete",
+            "quantity": "2",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 3
         },
         {
             "name": "Cloro",
-            "quantity": "Botella",
+            "quantity": "1",
+            "metricS":"botella",
+            "metricM":"botellas",
             "brand": "Bleach",
             "priority": 2
         },
         {
             "name": "Sopa",
-            "quantity": "",
+            "quantity": "2",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 1
         },
         {
             "name": "Lentejas",
-            "quantity": "",
+            "quantity": "2",
+            "metricS":"paquete",
+            "metricM":"paquetes",
             "brand": "NA",
             "priority": 1
+        },
+        {
+            "name": "Especias",
+            "quantity": "por",
+            "metricS":"pieza",
+            "metricM":" ",
+            "brand": "NA",
+            "priority": 3
         }
     ]
 }
