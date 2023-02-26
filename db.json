@@ -129,14 +129,6 @@
             "priority": 2
         },
         {
-            "name": "Sal de ajo",
-            "quantity": "1",
-            "metricS":"pieza",
-            "metricM":"piezas",
-            "brand": "NA",
-            "priority": 1
-        },
-        {
             "name": "Agua",
             "quantity": "1",
             "metricS":"paquete",
@@ -234,6 +226,14 @@
         },
         {
             "name": "Cloro",
+            "quantity": "1",
+            "metricS":"botella",
+            "metricM":"botellas",
+            "brand": "Bleach",
+            "priority": 2
+        },
+        {
+            "name": "Fabuloso",
             "quantity": "1",
             "metricS":"botella",
             "metricM":"botellas",
