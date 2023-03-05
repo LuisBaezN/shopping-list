@@ -22,11 +22,11 @@ function start() {
             prod = document.createElement('li');
             for (cont; cont < limit; cont++) {
                 if (data[cont].name === name) {
-                    if (value === 1) {
-                        prod.append(`${name}: ${value} ${data[cont].metricS}`);
+                    if (value > 1) {
+                        prod.append(`${name}: ${value} ${data[cont].metricM}`);
                         break;
                     } else {
-                        prod.append(`${name}: ${value} ${data[cont].metricM}`);
+                        prod.append(`${name}: ${value} ${data[cont].metricS}`);
                         break;
                     }
                 }

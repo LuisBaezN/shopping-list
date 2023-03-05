@@ -2,7 +2,7 @@
     "products":[ 
         {
             "name": "Arroz",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"bolsa",
             "metricM":"bolsas",
             "brand": "NA",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Pechuga",
-            "quantity": "1",
+            "quantity": 2,
             "metricS":"charola",
             "metricM":"charolas",
             "brand": "NA",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Carne molida",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Papa",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"bolsa",
             "metricM":"bolsas",
             "brand": "NA",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Jitomate",
-            "quantity": "3",
+            "quantity": 3,
             "metricS":"kg",
             "metricM":"kg",
             "brand": "NA",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Cebolla",
-            "quantity": "4",
+            "quantity": 4,
             "metricS": "pieza",
             "metricM": "piezas",
             "brand": "NA",
@@ -50,7 +50,7 @@
         },
         {
             "name": "Chile",
-            "quantity": "3",
+            "quantity": 3,
             "metricS": "bolsa",
             "metricM": "bolsa",
             "brand": "NA",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Tortillas",
-            "quantity": "4",
+            "quantity": 4,
             "metricS":"kg",
             "metricM":"kg",
             "brand": "NA",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Espagueti",
-            "quantity": "2",
+            "quantity": 2,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -74,15 +74,15 @@
         },
         {
             "name": "Mantequilla",
-            "quantity": "1.7",
-            "metricS":"kg",
-            "metricM":"kg",
+            "quantity": 1,
+            "metricS":"pieza",
+            "metricM":"piezas",
             "brand": "Blue Bonnet",
             "priority": 1
         },
         {
             "name": "Mayonesa",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"Frasco",
             "metricM":"Frascos",
             "brand": "NA",
@@ -90,7 +90,7 @@
         },
         {
             "name": "Knor",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"frasco",
             "metricM":"frascos",
             "brand": "NA",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Huevo",
-            "quantity": "2",
+            "quantity": 2,
             "metricS":"caja",
             "metricM":"cajas",
             "brand": "NA",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Jamón",
-            "quantity": "3",
+            "quantity": 3,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Salchichas",
-            "quantity": "2",
+            "quantity": 2,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -122,7 +122,7 @@
         },
         {
             "name": "Ajos",
-            "quantity": "3",
+            "quantity": 3,
             "metricS":"cabeza",
             "metricM":"cabezas",
             "brand": "NA",
@@ -130,7 +130,7 @@
         },
         {
             "name": "Agua",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Puré de tomate",
-            "quantity": "3",
+            "quantity": 3,
             "metricS":"lata",
             "metricM":"latas",
             "brand": "NA",
@@ -146,7 +146,7 @@
         },
         {
             "name": "Valentina",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"botella",
             "metricM":"botellas",
             "brand": "NA",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Azúcar",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"bolsa",
             "metricM":"bolsas",
             "brand": "NA",
@@ -162,7 +162,7 @@
         },
         {
             "name": "Servilletas",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -170,7 +170,7 @@
         },
         {
             "name": "Rollo",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "Angel soft",
@@ -178,7 +178,7 @@
         },
         {
             "name": "Jabón trastes",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"botella",
             "metricM":"botellas",
             "brand": "NA",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Esponja",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -194,7 +194,7 @@
         },
         {
             "name": "Crema",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -202,7 +202,7 @@
         },
         {
             "name": "Bolsas basura",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"caja",
             "metricM":"cajas",
             "brand": "NA",
@@ -210,7 +210,7 @@
         },
         {
             "name": "Aceite",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"galón",
             "metricM":"galones",
             "brand": "NA",
@@ -218,7 +218,7 @@
         },
         {
             "name": "Pan molido",
-            "quantity": "2",
+            "quantity": 2,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -226,7 +226,7 @@
         },
         {
             "name": "Cloro",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"botella",
             "metricM":"botellas",
             "brand": "Bleach",
@@ -234,15 +234,15 @@
         },
         {
             "name": "Fabuloso",
-            "quantity": "1",
+            "quantity": 1,
             "metricS":"botella",
             "metricM":"botellas",
             "brand": "Bleach",
             "priority": 2
         },
         {
-            "name": "Sopa",
-            "quantity": "2",
+            "name": "Pasta",
+            "quantity": 2,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -250,7 +250,7 @@
         },
         {
             "name": "Lentejas",
-            "quantity": "2",
+            "quantity": 2,
             "metricS":"paquete",
             "metricM":"paquetes",
             "brand": "NA",
@@ -258,8 +258,8 @@
         },
         {
             "name": "Especias",
-            "quantity": "por",
-            "metricS":"pieza",
+            "quantity": "por pieza",
+            "metricS":" ",
             "metricM":" ",
             "brand": "NA",
             "priority": 3
