@@ -161,6 +161,14 @@
             "priority": 2
         },
         {
+            "name": "Sal",
+            "quantity": 1,
+            "metricS":"bolsa",
+            "metricM":"bolsas",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
             "name": "Servilletas",
             "quantity": 1,
             "metricS":"paquete",
