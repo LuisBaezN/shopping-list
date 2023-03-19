@@ -1,0 +1,132 @@
+{
+    "products":[
+        {
+            "name": "Pan sandwitch",
+            "quantity": 2,
+            "metricS":"paquete",
+            "metricM":"paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Plátano",
+            "quantity": 5,
+            "metricS": "pieza",
+            "metricM": "piezas",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Manzana",
+            "quantity": 6,
+            "metricS":"pieza",
+            "metricM":"piezas",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Queso",
+            "quantity": 1,
+            "metricS":"paquete",
+            "metricM":"paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Burrito",
+            "quantity": 2,
+            "metricS":"paquete",
+            "metricM":"paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Comida prep",
+            "quantity": 1,
+            "metricS":"charola",
+            "metricM":"charolas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Barritas",
+            "quantity": 1,
+            "metricS":"paquete",
+            "metricM":"paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Te",
+            "quantity": 2,
+            "metricS":"caja",
+            "metricM":"cajas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Kefir",
+            "quantity": 1,
+            "metricS":"botella",
+            "metricM":"botellas",
+            "brand": "NA",
+            "priority": 2
+        },
+        {
+            "name": "Muffing",
+            "quantity": 1,
+            "metricS":"Paquete",
+            "metricM":"Paquetes",
+            "brand": "NA",
+            "priority": 3
+        },
+        {
+            "name": "Dentrífico",
+            "quantity": 2,
+            "metricS":"caja",
+            "metricM":"cajas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Cera",
+            "quantity": 1,
+            "metricS":"pieza",
+            "metricM":"piezas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Desodorante",
+            "quantity": 1,
+            "metricS": "paquete",
+            "metricM": "paquetes",
+            "brand": "NA",
+            "priority": 3
+        },
+        {
+            "name": "Jabón cuerpo",
+            "quantity": 2,
+            "metricS":"pieza",
+            "metricM":"piezas",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Shampoo",
+            "quantity": 1,
+            "metricS":"paquete",
+            "metricM":"paquetes",
+            "brand": "NA",
+            "priority": 1
+        },
+        {
+            "name": "Navaja",
+            "quantity": 1,
+            "metricS":"paquete",
+            "metricM":"paquetes",
+            "brand": "NA",
+            "priority": 1
+        }   
+    ]
+}
