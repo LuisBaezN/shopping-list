@@ -49,14 +49,6 @@
             "priority": 1
         },
         {
-            "name": "Carne molida",
-            "quantity": 1,
-            "metricS":"paquete",
-            "metricM":"paquetes",
-            "brand": "NA",
-            "priority": 1
-        },
-        {
             "name": "Huevo",
             "quantity": 2,
             "metricS":"caja",
@@ -121,14 +113,6 @@
             "priority": 1
         },
         {
-            "name": "Pan molido",
-            "quantity": 3,
-            "metricS":"paquete",
-            "metricM":"paquetes",
-            "brand": "NA",
-            "priority": 3
-        },
-        {
             "name": "Mantequilla",
             "quantity": 1,
             "metricS":"pieza",
@@ -160,7 +144,6 @@
             "brand": "NA",
             "priority": 1
         },
-        
         {
             "name": "Aceite",
             "quantity": 1,
